@@ -1,0 +1,84 @@
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+article h1 {
+    font-size: 25pt !important;
+    font-weight: 500;
+    line-height: 1.2 !important;
+}
+
+article h2 {
+    font-size: 18pt !important;
+    font-weight: 500;
+}
+
+article {
+    max-width: 450pt !important;
+    margin: auto;
+}
+
+article img {
+    border-radius: 4pt;
+}
+
+.post-meta, p {
+    color: black;
+    font-size: 12pt;
+}
+
+header, header .site-title {
+    border: none !important;
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: 500;
+    margin: 0pt;
+}
+
+header.site-header .wrapper {
+    max-width: 450pt !important;
+    padding: 5pt;
+    height: auto;
+    height: 20pt;
+    font-size: 12pt;
+    font-family: Arial;
+}
+
+footer {
+    width: calc(min(100vw, 480pt)) !important;
+    margin: auto;
+    border: none !important;
+    display: none;
+}
+
+.home {
+    max-width: 450pt !important;
+    margin: auto;
+}
+
+.site-title {
+    font-weight: bold !important;
+}
+
+.home h2 {
+    font-weight: bold;
+}
+
+.home h2, .home h3, .home li h3 .post-link, .home .post-meta {
+    font-size: 12pt !important;
+}
+
+.rss-subscribe {
+    font-size: 12pt !important;
+}
+
+.highlight {
+    border-radius: 4pt;
+    background-color: rgb(246, 246, 246) !important;
+    font-family: monospace !important;
+}
+
+pre, pre * {
+    background-color: rgb(246, 246, 246) !important;
+    font-family: monospace !important;
+}
