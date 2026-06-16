@@ -23,6 +23,52 @@ permalink: /about/
   number of great collaborators. Here is a list of some of them:
 </p>
 
+<h3>2026</h3>
+<ul class="publications">
+  <li>
+    <a href="https://arxiv.org/abs/2605.28588" target="_blank"
+      >Technical Report: Exploring the Emerging Threats of the Agent Skill
+      Ecosystem</a
+    ><br />
+    Luca Beurer-Kellner, Aleksei Kudrinskii, Marco Milanta, Kristian Bonde
+    Nielsen, Hemang Sarkar, Liran Tal<br />
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2605.01970" target="_blank"
+      >Trojan Hippo: Weaponizing Agent Memory for Data Exfiltration</a
+    ><br />
+    Debeshee Das, Julien Piet, Darya Kaviani, Luca Beurer-Kellner, Florian
+    Tramèr, David Wagner<br />
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2602.20156" target="_blank"
+      >Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks</a
+    ><br />
+    David Schmotz, Luca Beurer-Kellner, Sahar Abdelnabi, Maksym
+    Andriushchenko<br />
+  </li>
+</ul>
+
+<h3>2025</h3>
+<ul class="publications">
+  <li>
+    <a href="https://arxiv.org/abs/2510.08829" target="_blank"
+      >CommandSans: Securing AI Agents with Surgical Precision Prompt
+      Sanitization</a
+    ><br />
+    Debeshee Das, Luca Beurer-Kellner, Marc Fischer, Maximilian Baader<br />
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2506.08837" target="_blank"
+      >Design Patterns for Securing LLM Agents against Prompt Injections</a
+    ><br />
+    Luca Beurer-Kellner, Beat Buesser, Ana-Maria Creţu, Edoardo Debenedetti,
+    Daniel Dobos, Daniel Fabian, Marc Fischer, David Froelicher, Kathrin Grosse,
+    Daniel Naeff, Ezinwanne Ozoani, Andrew Paverd, Florian Tramèr, Václav
+    Volhejn<br />
+  </li>
+</ul>
+
 <h3>2024</h3>
 <ul class="publications">
   <li>
